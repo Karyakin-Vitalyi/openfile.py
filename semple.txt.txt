@@ -1,0 +1,4 @@
+It's a special file for text.
+It translates the test for me.
+I'm studying
+I like
